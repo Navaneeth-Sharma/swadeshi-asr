@@ -1,0 +1,6 @@
+transformers
+datasets
+torchaudio
+librosa
+numpy
+torch
