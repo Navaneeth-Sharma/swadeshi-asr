@@ -12,3 +12,10 @@ Below is the general working pipeline of the End to End model:
 
 
 ![endtoend](https://user-images.githubusercontent.com/67675851/181423078-36561b66-3a1d-48cf-82fe-eeda57f22a4e.png)
+
+The input is the raw speech or a 1 dimensional vector. The Encoder will extract the features from the speech input and it is converted into a feature vector. Most
+commonly, the Convolutional Neural Networks are used to extract the features from signals. The aligner will align the feature vector to the sequence. The Decoder
+will process the aligned feature sequence to generate the output sequence.
+
+Swadeshi series will consist of ASRs in various Indian languages by using Indian languages datasets for the training of the models. 
+Demo notebooks will be displayed in the notebooks folder of this repository.
