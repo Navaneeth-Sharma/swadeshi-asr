@@ -5,4 +5,10 @@ is based on the End to End Deep Learning approach.The end-to-end model uses deep
 It replaces the engineering process with the learning process and needs no domain expertise, so the end-to-end model is simpler for constructing and training.
 
 Below is the general working pipeline of the End to End model:
+
+
+
+
+
+
 ![endtoend](https://user-images.githubusercontent.com/67675851/181423078-36561b66-3a1d-48cf-82fe-eeda57f22a4e.png)
